@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./github-cover.png"
+    src="./022.png"
     width="100%"
     alt="Masum Ahmed — UI UX Design, Social Media, Email Marketing and SEO"
   />
