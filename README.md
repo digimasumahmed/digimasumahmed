@@ -81,194 +81,179 @@ I combine creative thinking with audience research, brand positioning, and perfo
 
 ---
 
+
+
+
+
+
+
+
+
+
+<div align="center">
+
 ## 🟠 What I Do
 
-> ### 🎨 UI/UX Design
->
-> I create clear, modern, and user-focused interfaces that balance visual quality, usability and business goals.
->
-> - Website and landing page design
-> - Mobile application and dashboard design
-> - Wireframes and user flows
-> - Responsive interface design
-> - Design systems and reusable components
-> - Interactive prototypes
-> - Interface redesign and usability improvement
+I combine design, content, and digital marketing to help brands build  
+<strong>clearer experiences, stronger communication, and sustainable growth.</strong>
 
 <br>
 
-> ### 📱 Social Media Management
->
-> I help brands build a consistent and engaging digital presence through strategic content planning and platform-focused execution.
->
-> - Social media strategy
-> - Monthly content calendar planning
-> - Campaign ideation
-> - Caption and copywriting
-> - Visual content direction
-> - Brand tone and messaging
-> - Audience engagement planning
-> - Content performance review
+<p>
+  <picture>
+    <img src="https://img.shields.io/badge/UI%2FUX_DESIGN-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="UI UX Design">
+  </picture>
+  <picture>
+    <img src="https://img.shields.io/badge/SOCIAL_MEDIA-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Social Media Management">
+  </picture>
+  <picture>
+    <img src="https://img.shields.io/badge/EMAIL_MARKETING-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=111111" alt="Email Marketing">
+  </picture>
+  <picture>
+    <img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
+  </picture>
+</p>
+
+</div>
 
 <br>
 
-> ### 📧 Email Marketing
->
-> I develop structured email campaigns designed to build relationships, nurture audiences, and support conversions.
->
-> - Newsletter planning and design
-> - Promotional email campaigns
-> - Welcome email sequences
-> - Lead nurturing flows
-> - Customer retention campaigns
-> - Subject line and CTA optimization
-> - Email automation planning
-> - Campaign performance analysis
+### 🎨 UI/UX Design
 
-<br>
+> I design clean, intuitive, and visually consistent digital experiences that connect user needs with business objectives.
 
-> ### 🔍 Search Engine Optimization
->
-> I improve website visibility through practical research, content optimization, and search-focused recommendations.
->
-> - Keyword research
-> - On-page SEO
-> - Meta title and description optimization
-> - Website content optimization
-> - Competitor analysis
-> - Internal linking strategy
-> - Basic technical SEO review
-> - Search performance monitoring
+<p>
+  <picture>
+    <img src="https://img.shields.io/badge/Website_UI-111827?style=flat-square&logo=googlechrome&logoColor=F24E1E" alt="Website UI">
+  </picture>
+  <picture>
+    <img src="https://img.shields.io/badge/Landing_Pages-111827?style=flat-square&logo=figma&logoColor=F24E1E" alt="Landing Pages">
+  </picture>
+  <picture>
+    <img src="https://img.shields.io/badge/Mobile_Apps-111827?style=flat-square&logo=android&logoColor=F24E1E" alt="Mobile Apps">
+  </picture>
+  <picture>
+    <img src="https://img.shields.io/badge/Wireframes-111827?style=flat-square&logo=figma&logoColor=F24E1E" alt="Wireframes">
+  </picture>
+  <picture>
+    <img src="https://img.shields.io/badge/User_Flows-111827?style=flat-square&logo=diagramsdotnet&logoColor=F24E1E" alt="User Flows">
+  </picture>
+  <picture>
+    <img src="https://img.shields.io/badge/Prototypes-111827?style=flat-square&logo=proton&logoColor=F24E1E" alt="Prototypes">
+  </picture>
+  <picture>
+    <img src="https://img.shields.io/badge/Design_Systems-111827?style=flat-square&logo=storybook&logoColor=F24E1E" alt="Design Systems">
+  </picture>
+</p>
+
+**My focus:** usability, responsive layouts, visual hierarchy, consistency, and conversion-oriented design.
 
 <br>
 
 ---
 
-## 🟠 My Working Process
+### 📱 Social Media Management
 
-### `01` - Discover
+> I help brands maintain a consistent, engaging, and strategically planned presence across social platforms.
 
-I begin by understanding the brand, audience, competitors, current challenges, and primary business objectives.
+<p>
+  <picture>
+    <img src="https://img.shields.io/badge/Content_Strategy-111827?style=flat-square&logo=buffer&logoColor=E4405F" alt="Content Strategy">
+  </picture>
+  <picture>
+    <img src="https://img.shields.io/badge/Content_Calendar-111827?style=flat-square&logo=googlecalendar&logoColor=E4405F" alt="Content Calendar">
+  </picture>
+  <picture>
+    <img src="https://img.shields.io/badge/Campaign_Ideation-111827?style=flat-square&logo=campaignmonitor&logoColor=E4405F" alt="Campaign Ideation">
+  </picture>
+  <picture>
+    <img src="https://img.shields.io/badge/Caption_Writing-111827?style=flat-square&logo=googledocs&logoColor=E4405F" alt="Caption Writing">
+  </picture>
+  <picture>
+    <img src="https://img.shields.io/badge/Visual_Direction-111827?style=flat-square&logo=canva&logoColor=E4405F" alt="Visual Direction">
+  </picture>
+  <picture>
+    <img src="https://img.shields.io/badge/Engagement-111827?style=flat-square&logo=instagram&logoColor=E4405F" alt="Engagement">
+  </picture>
+</p>
 
-### `02` - Research
-
-I study user behaviour, market positioning, content opportunities, and existing digital performance.
-
-### `03` - Strategize
-
-I define the user journey, campaign direction, content structure, and success criteria.
-
-### `04` - Create
-
-I develop the interface, content, campaign assets, or optimization plan with clarity and consistency.
-
-### `05` - Deliver
-
-I organize the final assets, documentation, and recommendations in a structured and practical format.
-
-### `06` - Improve
-
-I use feedback and performance insights to identify opportunities for continued improvement.
+**My focus:** platform-specific planning, consistent brand communication, audience relevance, and measurable engagement.
 
 <br>
 
 ---
 
+### 📧 Email Marketing
 
-
-
-## 🟠 Tools & Digital Stack
-
-### Design & Creative
+> I create structured email experiences that help businesses nurture audiences, strengthen relationships, and support conversions.
 
 <p>
   <picture>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+    <img src="https://img.shields.io/badge/Newsletters-111827?style=flat-square&logo=mailchimp&logoColor=FFE01B" alt="Newsletters">
   </picture>
   <picture>
-    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
+    <img src="https://img.shields.io/badge/Promotional_Emails-111827?style=flat-square&logo=gmail&logoColor=FFE01B" alt="Promotional Emails">
   </picture>
   <picture>
-    <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop">
+    <img src="https://img.shields.io/badge/Welcome_Flows-111827?style=flat-square&logo=maildotru&logoColor=FFE01B" alt="Welcome Flows">
   </picture>
   <picture>
-    <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator">
+    <img src="https://img.shields.io/badge/Lead_Nurturing-111827?style=flat-square&logo=hubspot&logoColor=FFE01B" alt="Lead Nurturing">
+  </picture>
+  <picture>
+    <img src="https://img.shields.io/badge/Automation-111827?style=flat-square&logo=zapier&logoColor=FFE01B" alt="Automation">
+  </picture>
+  <picture>
+    <img src="https://img.shields.io/badge/CTA_Optimization-111827?style=flat-square&logo=target&logoColor=FFE01B" alt="CTA Optimization">
   </picture>
 </p>
 
-### Social Media & Content
-
-<p>
-  <picture>
-    <img src="https://img.shields.io/badge/Meta_Business_Suite-0866FF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Business Suite">
-  </picture>
-  <picture>
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </picture>
-  <picture>
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </picture>
-  <picture>
-    <img src="https://img.shields.io/badge/TikTok-25F4EE?style=for-the-badge&logo=tiktok&logoColor=111111" alt="TikTok">
-  </picture>
-  <picture>
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </picture>
-</p>
-
-### Email Marketing
-
-<p>
-  <picture>
-    <img src="https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=111111" alt="Mailchimp">
-  </picture>
-  <picture>
-    <img src="https://img.shields.io/badge/Klaviyo-000000?style=for-the-badge&logo=klaviyo&logoColor=white" alt="Klaviyo">
-  </picture>
-  <picture>
-    <img src="https://img.shields.io/badge/Brevo-0B996E?style=for-the-badge&logo=brevo&logoColor=white" alt="Brevo">
-  </picture>
-</p>
-
-### SEO & Analytics
-
-<p>
-  <picture>
-    <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics">
-  </picture>
-  <picture>
-    <img src="https://img.shields.io/badge/Search_Console-4285F4?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="Google Search Console">
-  </picture>
-  <picture>
-    <img src="https://img.shields.io/badge/Google_Trends-4285F4?style=for-the-badge&logo=googletrends&logoColor=white" alt="Google Trends">
-  </picture>
-  <picture>
-    <img src="https://img.shields.io/badge/Keyword_Planner-34A853?style=for-the-badge&logo=googleads&logoColor=white" alt="Google Keyword Planner">
-  </picture>
-</p>
-
-### Planning & Collaboration
-
-<p>
-  <picture>
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
-  </picture>
-  <picture>
-    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
-  </picture>
-  <picture>
-    <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets">
-  </picture>
-  <picture>
-    <img src="https://img.shields.io/badge/Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive">
-  </picture>
-</p>
+**My focus:** clear messaging, effective subject lines, structured customer journeys, and conversion-focused calls to action.
 
 <br>
 
 ---
 
+### 🔍 Search Engine Optimization
 
+> I improve website visibility through practical research, structured optimization, and audience-focused content strategy.
+
+<p>
+  <picture>
+    <img src="https://img.shields.io/badge/Keyword_Research-111827?style=flat-square&logo=google&logoColor=4285F4" alt="Keyword Research">
+  </picture>
+  <picture>
+    <img src="https://img.shields.io/badge/On--Page_SEO-111827?style=flat-square&logo=googlesearchconsole&logoColor=4285F4" alt="On Page SEO">
+  </picture>
+  <picture>
+    <img src="https://img.shields.io/badge/Content_Optimization-111827?style=flat-square&logo=readthedocs&logoColor=4285F4" alt="Content Optimization">
+  </picture>
+  <picture>
+    <img src="https://img.shields.io/badge/Metadata-111827?style=flat-square&logo=html5&logoColor=4285F4" alt="Metadata">
+  </picture>
+  <picture>
+    <img src="https://img.shields.io/badge/Competitor_Analysis-111827?style=flat-square&logo=similarweb&logoColor=4285F4" alt="Competitor Analysis">
+  </picture>
+  <picture>
+    <img src="https://img.shields.io/badge/Search_Reporting-111827?style=flat-square&logo=googleanalytics&logoColor=4285F4" alt="Search Reporting">
+  </picture>
+</p>
+
+**My focus:** search intent, content quality, technical clarity, discoverability and long-term organic visibility.
+
+<br>
+
+---
+
+<div align="center">
+
+### One connected digital strategy - from experience to engagement and growth.
+
+</div>
+
+---
+
+<br>
 
 
 
