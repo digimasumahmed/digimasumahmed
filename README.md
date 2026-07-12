@@ -10,31 +10,86 @@
 
 # Hi, I'm Masum Ahmed 👋
 
+</div>
+
+
+<div align="center">
+
 ### UI/UX Designer • Social Media Manager • Email Marketing & SEO Specialist
 
-I help brands create stronger digital experiences through  
-**user-focused design, strategic communication and performance-driven marketing.**
+<p>
+  I help brands create stronger digital experiences through
+  <br>
+  <strong>user-focused design, strategic communication and performance-driven marketing.</strong>
+</p>
 
 <br>
 
-<img src="https://img.shields.io/badge/UI%2FUX_DESIGN-FF7A00?style=for-the-badge&logo=figma&logoColor=white" alt="UI UX Design">
-<img src="https://img.shields.io/badge/SOCIAL_MEDIA-111111?style=for-the-badge&logo=instagram&logoColor=FF7A00" alt="Social Media Management">
-<img src="https://img.shields.io/badge/EMAIL_MARKETING-111111?style=for-the-badge&logo=mailchimp&logoColor=FF7A00" alt="Email Marketing">
-<img src="https://img.shields.io/badge/SEO-111111?style=for-the-badge&logo=google&logoColor=FF7A00" alt="SEO">
+<p>
+  <picture>
+    <img
+      src="https://img.shields.io/badge/UI%2FUX_DESIGN-FF7A00?style=for-the-badge&logo=figma&logoColor=white"
+      alt="UI UX Design"
+    >
+  </picture>
+
+  <picture>
+    <img
+      src="https://img.shields.io/badge/SOCIAL_MEDIA-111111?style=for-the-badge&logo=instagram&logoColor=FF7A00"
+      alt="Social Media Management"
+    >
+  </picture>
+
+  <picture>
+    <img
+      src="https://img.shields.io/badge/EMAIL_MARKETING-111111?style=for-the-badge&logo=mailchimp&logoColor=FF7A00"
+      alt="Email Marketing"
+    >
+  </picture>
+
+  <picture>
+    <img
+      src="https://img.shields.io/badge/SEO-111111?style=for-the-badge&logo=google&logoColor=FF7A00"
+      alt="SEO"
+    >
+  </picture>
+</p>
 
 </div>
 
 <br>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 ## 🟠 About Me
 
-> I am a multidisciplinary digital professional from Bangladesh, working across UI/UX design, social media management, email marketing and SEO.
+> I am a multidisciplinary digital professional from Bangladesh, working across UI/UX design, social media management, email marketing, and SEO.
 >
-> My goal is not simply to make digital content look attractive. I focus on creating clear experiences, consistent communication and strategies that support real business objectives.
+> My goal is not simply to make digital content look attractive. I focus on creating clear experiences, consistent communication, and strategies that support real business objectives.
 >
-> I combine creative thinking with audience research, brand positioning and performance insights to help businesses communicate better and grow sustainably.
+I combine creative thinking with audience research, brand positioning, and performance insights to help businesses communicate more effectively and grow sustainably.
 
 <br>
 
@@ -133,52 +188,180 @@ I use feedback and performance insights to identify opportunities for continued 
 
 ---
 
+
+
+
 ## 🟠 Tools & Digital Stack
 
 ### Design & Creative
 
 <p>
-  <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=FF7A00" alt="Figma">
-  <img src="https://img.shields.io/badge/Canva-111111?style=for-the-badge&logo=canva&logoColor=FF7A00" alt="Canva">
-  <img src="https://img.shields.io/badge/Photoshop-111111?style=for-the-badge&logo=adobephotoshop&logoColor=FF7A00" alt="Adobe Photoshop">
-  <img src="https://img.shields.io/badge/Illustrator-111111?style=for-the-badge&logo=adobeillustrator&logoColor=FF7A00" alt="Adobe Illustrator">
+  <picture>
+    <img
+      src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=FF7A00"
+      alt="Figma"
+    >
+  </picture>
+
+  <picture>
+    <img
+      src="https://img.shields.io/badge/Canva-111111?style=for-the-badge&logo=canva&logoColor=FF7A00"
+      alt="Canva"
+    >
+  </picture>
+
+  <picture>
+    <img
+      src="https://img.shields.io/badge/Photoshop-111111?style=for-the-badge&logo=adobephotoshop&logoColor=FF7A00"
+      alt="Adobe Photoshop"
+    >
+  </picture>
+
+  <picture>
+    <img
+      src="https://img.shields.io/badge/Illustrator-111111?style=for-the-badge&logo=adobeillustrator&logoColor=FF7A00"
+      alt="Adobe Illustrator"
+    >
+  </picture>
 </p>
+
+<br>
 
 ### Social Media & Content
 
 <p>
-  <img src="https://img.shields.io/badge/Meta_Business_Suite-111111?style=for-the-badge&logo=meta&logoColor=FF7A00" alt="Meta Business Suite">
-  <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=FF7A00" alt="Instagram">
-  <img src="https://img.shields.io/badge/Facebook-111111?style=for-the-badge&logo=facebook&logoColor=FF7A00" alt="Facebook">
-  <img src="https://img.shields.io/badge/TikTok-111111?style=for-the-badge&logo=tiktok&logoColor=FF7A00" alt="TikTok">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=FF7A00" alt="LinkedIn">
+  <picture>
+    <img
+      src="https://img.shields.io/badge/Meta_Business_Suite-111111?style=for-the-badge&logo=meta&logoColor=FF7A00"
+      alt="Meta Business Suite"
+    >
+  </picture>
+
+  <picture>
+    <img
+      src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=FF7A00"
+      alt="Instagram"
+    >
+  </picture>
+
+  <picture>
+    <img
+      src="https://img.shields.io/badge/Facebook-111111?style=for-the-badge&logo=facebook&logoColor=FF7A00"
+      alt="Facebook"
+    >
+  </picture>
+
+  <picture>
+    <img
+      src="https://img.shields.io/badge/TikTok-111111?style=for-the-badge&logo=tiktok&logoColor=FF7A00"
+      alt="TikTok"
+    >
+  </picture>
+
+  <picture>
+    <img
+      src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=FF7A00"
+      alt="LinkedIn"
+    >
+  </picture>
 </p>
+
+<br>
 
 ### Email Marketing
 
 <p>
-  <img src="https://img.shields.io/badge/Mailchimp-111111?style=for-the-badge&logo=mailchimp&logoColor=FF7A00" alt="Mailchimp">
-  <img src="https://img.shields.io/badge/Klaviyo-111111?style=for-the-badge&logo=klaviyo&logoColor=FF7A00" alt="Klaviyo">
-  <img src="https://img.shields.io/badge/Brevo-111111?style=for-the-badge&logo=brevo&logoColor=FF7A00" alt="Brevo">
+  <picture>
+    <img
+      src="https://img.shields.io/badge/Mailchimp-111111?style=for-the-badge&logo=mailchimp&logoColor=FF7A00"
+      alt="Mailchimp"
+    >
+  </picture>
+
+  <picture>
+    <img
+      src="https://img.shields.io/badge/Klaviyo-111111?style=for-the-badge&logo=klaviyo&logoColor=FF7A00"
+      alt="Klaviyo"
+    >
+  </picture>
+
+  <picture>
+    <img
+      src="https://img.shields.io/badge/Brevo-111111?style=for-the-badge&logo=brevo&logoColor=FF7A00"
+      alt="Brevo"
+    >
+  </picture>
 </p>
+
+<br>
 
 ### SEO & Analytics
 
 <p>
-  <img src="https://img.shields.io/badge/Google_Analytics-111111?style=for-the-badge&logo=googleanalytics&logoColor=FF7A00" alt="Google Analytics">
-  <img src="https://img.shields.io/badge/Search_Console-111111?style=for-the-badge&logo=google&logoColor=FF7A00" alt="Google Search Console">
-  <img src="https://img.shields.io/badge/Google_Trends-111111?style=for-the-badge&logo=googletrends&logoColor=FF7A00" alt="Google Trends">
-  <img src="https://img.shields.io/badge/Keyword_Planner-111111?style=for-the-badge&logo=googleads&logoColor=FF7A00" alt="Google Keyword Planner">
+  <picture>
+    <img
+      src="https://img.shields.io/badge/Google_Analytics-111111?style=for-the-badge&logo=googleanalytics&logoColor=FF7A00"
+      alt="Google Analytics"
+    >
+  </picture>
+
+  <picture>
+    <img
+      src="https://img.shields.io/badge/Search_Console-111111?style=for-the-badge&logo=google&logoColor=FF7A00"
+      alt="Google Search Console"
+    >
+  </picture>
+
+  <picture>
+    <img
+      src="https://img.shields.io/badge/Google_Trends-111111?style=for-the-badge&logo=googletrends&logoColor=FF7A00"
+      alt="Google Trends"
+    >
+  </picture>
+
+  <picture>
+    <img
+      src="https://img.shields.io/badge/Keyword_Planner-111111?style=for-the-badge&logo=googleads&logoColor=FF7A00"
+      alt="Google Keyword Planner"
+    >
+  </picture>
 </p>
+
+<br>
 
 ### Planning & Collaboration
 
 <p>
-  <img src="https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=notion&logoColor=FF7A00" alt="Notion">
-  <img src="https://img.shields.io/badge/Trello-111111?style=for-the-badge&logo=trello&logoColor=FF7A00" alt="Trello">
-  <img src="https://img.shields.io/badge/Google_Sheets-111111?style=for-the-badge&logo=googlesheets&logoColor=FF7A00" alt="Google Sheets">
-  <img src="https://img.shields.io/badge/Google_Drive-111111?style=for-the-badge&logo=googledrive&logoColor=FF7A00" alt="Google Drive">
+  <picture>
+    <img
+      src="https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=notion&logoColor=FF7A00"
+      alt="Notion"
+    >
+  </picture>
+
+  <picture>
+    <img
+      src="https://img.shields.io/badge/Trello-111111?style=for-the-badge&logo=trello&logoColor=FF7A00"
+      alt="Trello"
+    >
+  </picture>
+
+  <picture>
+    <img
+      src="https://img.shields.io/badge/Google_Sheets-111111?style=for-the-badge&logo=googlesheets&logoColor=FF7A00"
+      alt="Google Sheets"
+    >
+  </picture>
+
+  <picture>
+    <img
+      src="https://img.shields.io/badge/Google_Drive-111111?style=for-the-badge&logo=googledrive&logoColor=FF7A00"
+      alt="Google Drive"
+    >
+  </picture>
 </p>
+
+
 
 <br>
 
@@ -204,7 +387,7 @@ I am currently focused on creating stronger connections between design, content 
 - **Clear communication** throughout the project
 - **Strategic decisions** based on audience and business goals
 - **Consistent branding** across every digital channel
-- **Organized delivery** of assets, reports and documentation
+- **Organized delivery** of assets, reports, and documentation
 - **Attention to detail** across design and marketing execution
 - **Continuous improvement** through feedback and performance insights
 
@@ -214,7 +397,7 @@ I am currently focused on creating stronger connections between design, content 
 
 ## 🟠 Open to Meaningful Collaborations
 
-I am available for selected freelance projects, remote collaborations and ongoing digital support.
+I am available for selected freelance projects, remote collaborations, and ongoing digital support.
 
 I am interested in working with:
 
@@ -227,7 +410,7 @@ I am interested in working with:
 
 ### Ways We Can Work Together
 
-- UI/UX design for websites, landing pages and digital products
+- UI/UX design for websites, landing pages, and digital products
 - Social media strategy, content planning and account management
 - Email campaign planning, design and automation strategy
 - SEO research, website audits and content optimization
@@ -256,76 +439,101 @@ Explore the pinned repositories below to view selected work.
 
 <br>
 
-<h2 align="center">📊 GitHub Activity</h2>
-
-<p align="center">
-  A snapshot of my activity, consistency, and ongoing work.
-</p>
 
 <div align="center">
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=digimasumahmed&theme=gruvbox"
-  width="100%"
-  alt="Masum Ahmed GitHub Profile Summary"
-/>
+<h2 align="center">📊 GitHub Activity</h2>
+
+<p align="center">
+  A focused view of my contribution consistency and profile engagement.
+</p>
 
 <br>
 
-
-<img
-  src="https://streak-stats.demolab.com?user=digimasumahmed&hide_border=true&background=0D1117&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF"
-  width="700"
-  alt="Masum Ahmed GitHub Streak"
-/>
+<picture>
+  <img
+    src="https://streak-stats.demolab.com?user=digimasumahmed&hide_border=false&border=30363D&background=0D1117&stroke=30363D&ring=FF7A00&fire=FF7A00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF7A00&sideLabels=F0F6FC&dates=8B949E&border_radius=12&disable_animations=true"
+    width="72%"
+    alt="Masum Ahmed GitHub Contribution Activity"
+  >
+</picture>
 
 <br>
 <br>
 
-<img
-  src="https://komarev.com/ghpvc/?username=digimasumahmed&label=PROFILE%20VIEWS&color=FF7A00&style=for-the-badge"
-  alt="Profile Views"
-/>
+<picture>
+  <img
+    src="https://komarev.com/ghpvc/?username=digimasumahmed&label=PROFILE%20VIEWS&color=FF7A00&style=for-the-badge&abbreviated=true"
+    alt="Masum Ahmed Profile Views"
+  >
+</picture>
 
 </div>
 
-<br>
 
+
+<br>
 
 
 
 
 ---
 
-## 🟠 Let’s Connect
+<h2 align="center">🟠 Let’s Connect</h2>
+
+<p align="center">
+  Have a project, collaboration, or digital growth idea? Feel free to reach out.
+</p>
+
+<br>
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-CONNECT_WITH_ME-111111?style=for-the-badge&logo=linkedin&logoColor=FF7A00" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/digimasumahmed/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn%20Profile-111111?style=for-the-badge&logo=linkedin&logoColor=FF7A00"
+      alt="LinkedIn Profile"
+    >
+  </a>
+
+  <a href="mailto:mdmasumahmed4800@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Send%20an%20Email-111111?style=for-the-badge&logo=gmail&logoColor=FF7A00"
+      alt="Send an Email"
+    >
+  </a>
+
+  <a href="">
+    <img
+      src="https://img.shields.io/badge/View%20Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=FF7A00"
+      alt="View Portfolio"
+    >
+  </a>
+
+
+<a href="https://dribble.com/digimasumahmed">
+  <img
+    src="https://img.shields.io/badge/Dribbble%20Profile-111111?style=for-the-badge&logo=dribbble&logoColor=FF7A00"
+    alt="Dribbble Profile"
+  >
 </a>
 
-<a href="mailto:YOUR_EMAIL_ADDRESS">
-  <img src="https://img.shields.io/badge/Email-SEND_A_MESSAGE-111111?style=for-the-badge&logo=gmail&logoColor=FF7A00" alt="Email">
-</a>
+  
 
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-VIEW_MY_WORK-111111?style=for-the-badge&logo=googlechrome&logoColor=FF7A00" alt="Portfolio">
-</a>
-
-<a href="YOUR_BEHANCE_URL">
-  <img src="https://img.shields.io/badge/Behance-DESIGN_PORTFOLIO-111111?style=for-the-badge&logo=behance&logoColor=FF7A00" alt="Behance">
-</a>
-
-<a href="https://github.com/digimasumahmed">
-  <img src="https://img.shields.io/badge/GitHub-digimasumahmed-111111?style=for-the-badge&logo=github&logoColor=FF7A00" alt="GitHub">
-</a>
+  <a href="https://github.com/digimasumahmed">
+    <img
+      src="https://img.shields.io/badge/GitHub%20Profile-111111?style=for-the-badge&logo=github&logoColor=FF7A00"
+      alt="GitHub Profile"
+    >
+  </a>
 
 </p>
 
 <br>
 
 ---
+
+
 
 <div align="center">
 
