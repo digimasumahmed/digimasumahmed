@@ -511,7 +511,7 @@ Explore the pinned repositories below to view selected work.
   </a>
 
 
-<a href="https://dribble.com/digimasumahmed">
+<a href="https://dribbble.com/digimasumahmed">
   <img
     src="https://img.shields.io/badge/Dribbble%20Profile-111111?style=for-the-badge&logo=dribbble&logoColor=FF7A00"
     alt="Dribbble Profile"
